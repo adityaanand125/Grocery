@@ -12,7 +12,7 @@ const Footer = () => {
                         Bred for a high content beneficial substances. <br />Our product are all fresh and healthy.
                     </p>
                     <p className='text-zinc-800 mt-6'>
-                        2025 &copy; All Right Reseved
+                        2026 &copy; All Right Reseved
                     </p>
                 </div>
 
