@@ -19,7 +19,7 @@ const Hero = () => {
                     <p className='text-zinc-600 max-w-[530px] mt-5 mb-6'>
                         Bred for a high content of beneficial substances. Our products are all fresh and healthy.
                     </p>
-                    <Button content='Shop Now' />
+                    <Button content='Ogrder Now' />
                 </div>
 
                 {/* hero image */}
